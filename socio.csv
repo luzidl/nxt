@@ -1,0 +1,101 @@
+﻿Member_ID;Affiliated_Chapter;City;Country;Dateofbirth;Gender
+000001;Munich;Munich;Germany;1987-06-10;Male
+000002;Munich;Munich;Germany;1960-09-04;Female
+000003;Munich;Munich;Germany;1984-09-29;Female
+000004;Munich;Munich;Germany;1971-12-11;Female
+000005;Munich;Munich;Germany;1967-09-22;Female
+000006;Munich;Munich;Germany;1949-02-24;Female
+000007;Munich;Munich;Germany;1968-05-15;Male
+000008;Munich;Regensburg;Germany;1987-02-08;Female
+000009;Munich;Nuremberg;Germany;1952-05-10;Male
+000010;Munich;Munich;Germany;1985-11-17;Female
+000011;Munich;Stuttgart;Germany;1954-02-07;Male
+000012;Munich;Munich;Germany;1990-05-22;Male
+000013;Munich;Salzburg;Austria;1985-07-01;Female
+000014;Munich;Salzburg;Austria;1968-06-16;Female
+000015;Munich;Ingolstadt;Germany;1958-07-10;Female
+000016;Munich;Munich;Germany;1953-03-31;Female
+000017;Munich;Munich;Germany;1958-11-19;Female
+000018;Munich;Garmisch-Partenkirchen;Germany;1978-11-25;Female
+000019;Munich;Würzburg;Germany;1952-03-29;Female
+000020;Munich;Munich;Germany;1953-04-12;Male
+000021;Munich;Passau;Germany;1978-06-22;Female
+000022;Munich;Murnau;Germany;1947-08-24;Male
+000023;Munich;Munich;Germany;1979-05-05;Male
+000024;Munich;Stuttgart;Germany;1959-07-05;Male
+000025;Munich;Munich;Germany;1949-02-02;Female
+000026;Munich;Munich;Germany;1987-01-11;Female
+000027;Munich;Munich;Germany;1953-06-13;Female
+000028;Munich;Ingolstadt;Germany;1953-06-10;Male
+000029;Munich;Munich;Germany;1990-05-27;Female
+000030;Munich;Munich;Germany;1973-01-18;Female
+000031;Munich;Garmisch-Partenkirchen;Germany;1955-03-10;Female
+000032;Munich;Würzburg;Germany;1966-11-11;Male
+000033;Munich;Munich;Germany;1947-04-01;Female
+000034;Munich;Passau;Germany;1974-09-06;Female
+000035;Munich;Murnau;Germany;1971-08-31;Female
+000036;Munich;Munich;Germany;1956-08-22;Female
+000037;Hamburg;Hamburg;Germany;1961-12-29;Female
+000038;Hamburg;Hamburg;Germany;1958-02-19;Female
+000039;Hamburg;Hamburg;Germany;1973-10-15;Male
+000040;Hamburg;Hamburg;Germany;1950-05-09;Female
+000041;Hamburg;Hamburg;Germany;1987-07-01;Male
+000042;Hamburg;Hamburg;Germany;1989-03-23;Female
+000043;Hamburg;Hamburg;Germany;1956-11-04;Female
+000044;Hamburg;Hamburg;Germany;1969-01-13;Male
+000045;Hamburg;Hamburg;Germany;1954-08-31;Female
+000046;Hamburg;Hamburg;Germany;1948-12-12;Male
+000047;Hamburg;Hamburg;Germany;1963-05-07;Female
+000048;Hamburg;Hamburg;Germany;1986-08-07;Male
+000049;Hamburg;Hamburg;Germany;1986-09-29;Female
+000050;Hamburg;Hamburg;Germany;1966-06-13;Female
+000051;Hamburg;Hamburg;Germany;1986-12-02;Male
+000052;Hamburg;Hanover;Germany;1976-06-15;Male
+000053;Hamburg;Lübeck;Germany;1959-05-19;Female
+000054;Hamburg;Kiel;Germany;1953-10-11;Female
+000055;Hamburg;Bremen;Germany;1974-08-08;Female
+000056;Hamburg;Rostock;Germany;1974-06-20;Male
+000057;Hamburg;Bremerhaven;Germany;1990-09-11;Male
+000058;Hamburg;Schwerin;Germany;1960-01-13;Male
+000059;Palma de Mallorca;Palma de Mallorca;Spain;1968-01-28;Male
+000060;Palma de Mallorca;Palma de Mallorca;Spain;1960-08-10;Male
+000061;Palma de Mallorca;Palma de Mallorca;Spain;1974-10-17;Male
+000062;Palma de Mallorca;Palma de Mallorca;Spain;1974-02-05;Female
+000063;Palma de Mallorca;Palma de Mallorca;Spain;1967-07-19;Female
+000064;Palma de Mallorca;Palma de Mallorca;Spain;1989-06-12;Male
+000065;Palma de Mallorca;Palma de Mallorca;Spain;1965-07-21;Female
+000066;Palma de Mallorca;Palma de Mallorca;Spain;1980-05-29;Male
+000067;Palma de Mallorca;Alcudia;Spain;1960-06-27;Female
+000068;Palma de Mallorca;Alcudia;Spain;1973-03-28;Female
+000069;Palma de Mallorca;Alcudia;Spain;1959-04-06;Female
+000070;Palma de Mallorca;Ibiza;Spain;1977-11-02;Male
+000071;Palma de Mallorca;Andratx;Spain;1987-01-27;Female
+000072;Palma de Mallorca;Manacor;Spain;1974-02-11;Male
+000073;Palma de Mallorca;Berlin;Germany;1963-01-31;Female
+000074;Palma de Mallorca;Dusseldorf;Germany;1977-04-06;Male
+000075;Palma de Mallorca;Cologne;Germany;1970-10-14;Male
+000076;Palma de Mallorca;Berlin;Germany;1953-10-02;Male
+000077;Palma de Mallorca;Dortmund;Germany;1952-12-10;Female
+000078;Palma de Mallorca;Barcelona;Spain;1978-07-08;Female
+000079;Palma de Mallorca;Barcelona;Spain;1946-09-19;Female
+000080;Palma de Mallorca;Barcelona;Spain;1979-11-07;Male
+000081;Palma de Mallorca;Barcelona;Spain;1952-03-17;Female
+000082;Palma de Mallorca;Madrid;Spain;1971-11-12;Male
+000083;Palma de Mallorca;Madrid;Spain;1962-09-06;Female
+000084;Palma de Mallorca;Madrid;Spain;1981-07-17;Male
+000085;Palma de Mallorca;Madrid;Spain;1988-08-29;Male
+000086;Palma de Mallorca;Madrid;Spain;1988-09-24;Male
+000087;Palma de Mallorca;London;United Kingdom;1984-02-21;Male
+000088;Palma de Mallorca;London;United Kingdom;1967-07-28;Male
+000089;Palma de Mallorca;London;United Kingdom;1986-10-12;Male
+000090;Palma de Mallorca;Manchester;United Kingdom;1955-03-23;Male
+000091;Palma de Mallorca;Copenhagen;Denmark;1959-04-22;Female
+000092;Palma de Mallorca;Copenhagen;Denmark;1973-03-04;Male
+000093;Palma de Mallorca;Stockholm;Sweden;1989-03-17;Female
+000094;Palma de Mallorca;Stockholm;Sweden;1949-10-21;Female
+000095;Palma de Mallorca;Stockholm;Sweden;1958-09-21;Male
+000096;Palma de Mallorca;Oslo;Norway;1959-05-21;Female
+000097;Palma de Mallorca;Oslo;Norway;1946-06-01;Female
+000098;Palma de Mallorca;Paris;France;1989-10-07;Female
+000099;Palma de Mallorca;Paris;France;1963-03-15;Female
+000100;Palma de Mallorca;Lyon;France;1972-12-21;Female
